@@ -1,4 +1,4 @@
-questions = {
+questions = [
 	{"id": 1, "question": "The only thing that matters is whether my team is in power.", "effects": {"auth": 1}},
 	{"id": 2, "question": "My political opposition must be destroyed.", "effects": {"auth": 1}},
 	{"id": 3, "question": "Rights violations are acceptable if they get results.", "effects": {"auth": 1}},
@@ -46,4 +46,4 @@ questions = {
 	{"id": 40, "question": "Our traditions teach us important lessons that we should not forget.", "effects": {"prog": -1}},
 	{"id": 41, "question": "Things were better in the past than they are now.", "effects": {"prog": -1}},
 	{"id": 42, "question": "Morality is given its legitimacy by higher powers.", "effects": {"prog": -1}},
-}
+];
