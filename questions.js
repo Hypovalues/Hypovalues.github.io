@@ -6,7 +6,6 @@ questions = [
 	{"id": 5, "question": "Order must be imposed from on high by those who know better.", "effects": {"auth": 1}},
 	{"id": 6, "question": "Victimless crimes should still be punished.", "effects": {"auth": 1}},
 	{"id": 7, "question": "The state should have the monopoly on violence.", "effects": {"auth": 1}},
-	
 	{"id": 8, "question": "The military should only exist to defend my nation.", "effects": {"nat": 1}},
 	{"id": 9, "question": "It would be better if we kept to ourselves.", "effects": {"nat": 1}},
 	{"id": 10, "question": "My nation is better than others.", "effects": {"nat": 1}},
@@ -14,7 +13,6 @@ questions = [
 	{"id": 12, "question": "My community ought to govern itself.", "effects": {"nat": 1}},
 	{"id": 13, "question": "Immigration is a net negative.", "effects": {"nat": 1}},
 	{"id": 14, "question": "Our values do not work for other groups.", "effects": {"nat": 1}},
-	
 	{"id": 15, "question": "It is wrong to judge others.", "effects": {"prog": 1}},
 	{"id": 16, "question": "People with disabilities (whether mental or physical) should have their needs accommodated.", "effects": {"prog": 1}},
 	{"id": 17, "question": "We should offer certain rights to animals.", "effects": {"prog": 1}},
@@ -22,7 +20,6 @@ questions = [
 	{"id": 19, "question": "We should distance ourselves from our past.", "effects": {"prog": 1}},
 	{"id": 20, "question": "Change, in general, is good for humanity.", "effects": {"prog": 1}},
 	{"id": 21, "question": "Belief in the metaphysical impedes our species' development.", "effects": {"prog": 1}},
-
 	{"id": 22, "question": "Information wants to be free.", "effects": {"auth": -1}},
 	{"id": 23, "question": "Laws should only exist to prevent rights violations.", "effects": {"auth": -1}},
 	{"id": 24, "question": "It is not acceptable for an authority figure (police officer, lawmaker, etc) to break his own laws.", "effects": {"auth": -1}},
@@ -30,7 +27,6 @@ questions = [
 	{"id": 26, "question": "Bureaucracy gets in the way of proper representation.", "effects": {"auth": -1}},
 	{"id": 27, "question": "If it does not infringe on the rights of another, it should be legal.", "effects": {"auth": -1}},
 	{"id": 28, "question": "Social stigma is preferable to government mandate.", "effects": {"auth": -1}},
-	
 	{"id": 29, "question": "Our influence should be spread as far and as wide as possible.", "effects": {"nat": -1}},
 	{"id": 30, "question": "We should participate on the global stage.", "effects": {"nat": -1}},
 	{"id": 31, "question": "No group has more or less valid concerns than another.", "effects": {"nat": -1}},
@@ -38,7 +34,6 @@ questions = [
 	{"id": 33, "question": "Communities should serve the greater good.", "effects": {"nat": -1}},
 	{"id": 34, "question": "Multiculturalism is good.", "effects": {"nat": -1}},
 	{"id": 35, "question": "Anyone should feel welcome anywhere.", "effects": {"nat": -1}},
-	
 	{"id": 36, "question": "Firm but fair standards benefit society.", "effects": {"prog": -1}},
 	{"id": 37, "question": "Some people inherently deserve more than others.", "effects": {"prog": -1}},
 	{"id": 38, "question": "Natural beauty should be protected.", "effects": {"prog": -1}},
